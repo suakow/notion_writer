@@ -19,13 +19,13 @@ install_requires = get_requirements("requirements.txt")
 
 setuptools.setup(
     name="notion_writer",
-    version="0.0.1",
+    version="0.0.2",
     author="Puri Phakmongkol",
     author_email="puripmk@gmail.com",
     description="A top level unofficial API for Notion",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/jamalex/notion-py",
+    url="https://github.com/suakow/notion_writer",
     install_requires=install_requires,
     include_package_data=True,
     packages=setuptools.find_packages(),
