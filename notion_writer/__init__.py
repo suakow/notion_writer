@@ -1,2 +1,1 @@
-from .notion_connector import *
-from .notion_page import *
+from .notion_connector import NotionConnector
