@@ -3,7 +3,7 @@ bs4==0.0.1
 cached-property==1.5.2
 commonmark==0.9.1
 dictdiffer==0.8.1
-notion==0.0.27
+notion
 python-slugify==4.0.1
 requests==2.25.1
 tzlocal==2.1
